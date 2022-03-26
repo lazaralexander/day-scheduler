@@ -39,7 +39,7 @@ THEN the saved events persist
 
 # Usage
 
-![Screenshot of Website](https://github.com/lazaralexander/day-scheduler/blob/main/assets/Screenshot%202022-03-26%20100628.png "Website")
+![Screenshot of Website](https://github.com/lazaralexander/day-scheduler/blob/main/images/Screenshot%202022-03-26%20100628.png "Website")
 
 # Links
 
